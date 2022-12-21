@@ -3,8 +3,8 @@
 
 _Available endpoints_ <br/>
 http://localhost:3000/launches <br/>
-http://localhost:3000/favorite (post)
-http://localhost:3000/favorite (delete)
+http://localhost:3000/favorite (post)<br/>
+http://localhost:3000/favorite (delete)<br/>
 
 2. For the favorite endpoints (post and delete), the request's body must have the next format:
 ```json
