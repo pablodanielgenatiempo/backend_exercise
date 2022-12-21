@@ -1,7 +1,7 @@
 1. To start the api, run the command:
    node src/index.js
 
-_Available endpoints_ <br/>
+Available endpoints <br/>
 http://localhost:3000/launches <br/>
 http://localhost:3000/favorite (post)<br/>
 http://localhost:3000/favorite (delete)<br/>
